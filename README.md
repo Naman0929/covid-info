@@ -1,5 +1,8 @@
 # covid-tracker
 
+A website through which a country's covid cases and deaths can be viewed.
+API used from https://covid19api.com/
+
 ## Project setup
 ```
 npm install
